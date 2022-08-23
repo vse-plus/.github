@@ -1,1 +1,0 @@
-# VŠE + browser extension
