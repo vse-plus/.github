@@ -9,7 +9,7 @@ Rozšíření do prohlížeče, které přidává chybějící funkcionality do 
 ![Brave](https://user-images.githubusercontent.com/14146321/186453649-da1afdcf-0a76-43fd-9af4-d18b650443e2.png):
 https://chrome.google.com/webstore/detail/hbngcjlobkadngdbbaknlgmholembfbj nebo pomocí [manuální instalace](https://github.com/vse-plus/.github/blob/main/manualni-instalace.md)
 
-![Firefox](https://user-images.githubusercontent.com/14146321/186454150-fc38c86a-d6ca-4d85-a442-13de070c9064.png): Firefox momentálně [nepodporuje rozšíření využívající manifest v3](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/). Mělo by být dostupné někdy na konci 2022.
+![Firefox](https://user-images.githubusercontent.com/14146321/186454150-fc38c86a-d6ca-4d85-a442-13de070c9064.png): [https://addons.mozilla.org/en-US/firefox/addon/vše/](https://addons.mozilla.org/en-US/firefox/addon/v%C5%A1e/)
 
 
 ## Funkcionality přidané do systému insis 
