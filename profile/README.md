@@ -20,7 +20,7 @@ https://chrome.google.com/webstore/detail/hbngcjlobkadngdbbaknlgmholembfbj nebo 
 
 ### Připomenutí na odevzdávárny
 
-_V současné verzi rozšíření ještě funkcionalita není dostupná_
+https://user-images.githubusercontent.com/14146321/194909135-a6e2a823-3fd7-45f4-9f23-258e56fd5a75.mp4
 
 ### Náhled úspěšnosti předmětů z minulých let
 
