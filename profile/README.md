@@ -4,12 +4,8 @@ Rozšíření do prohlížeče, které přidává chybějící funkcionality do 
 
 ## Kde si můžu rozšíření stáhnout?
 
-![Chrome](https://user-images.githubusercontent.com/14146321/186453570-267bd437-27b9-4261-93c7-7c3ccc897bf2.png) /
-![Edge](https://user-images.githubusercontent.com/14146321/186453728-9201339f-ab01-4d42-875e-227f6d146ac9.png) /
-![Brave](https://user-images.githubusercontent.com/14146321/186453649-da1afdcf-0a76-43fd-9af4-d18b650443e2.png):
-https://chrome.google.com/webstore/detail/hbngcjlobkadngdbbaknlgmholembfbj nebo pomocí [manuální instalace](https://github.com/vse-plus/.github/blob/main/manualni-instalace.md)
-
-![Firefox](https://user-images.githubusercontent.com/14146321/186454150-fc38c86a-d6ca-4d85-a442-13de070c9064.png): [https://addons.mozilla.org/en-US/firefox/addon/vše/](https://addons.mozilla.org/en-US/firefox/addon/v%C5%A1e/)
+[![Chrome, Brave, Edge](https://user-images.githubusercontent.com/14146321/195112493-90f2cbe5-6e2e-47e6-a447-bfb5c1751f4c.gif)](https://chrome.google.com/webstore/detail/v%C5%A1e%2B/hbngcjlobkadngdbbaknlgmholembfbj)
+[![Mozilla Firefox](https://user-images.githubusercontent.com/14146321/195112674-71c789ab-d4e2-42f3-bd33-4746d88f1ce2.png)](https://addons.mozilla.org/en-US/firefox/addon/v%C5%A1e/)
 
 
 ## Funkcionality přidané do systému insis 
