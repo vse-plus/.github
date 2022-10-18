@@ -7,17 +7,16 @@ Rozšíření do prohlížeče, které přidává chybějící funkcionality do 
 [![Chrome, Brave, Edge](https://user-images.githubusercontent.com/14146321/195112493-90f2cbe5-6e2e-47e6-a447-bfb5c1751f4c.gif)](https://chrome.google.com/webstore/detail/v%C5%A1e%2B/hbngcjlobkadngdbbaknlgmholembfbj)
 [![Mozilla Firefox](https://user-images.githubusercontent.com/14146321/195112674-71c789ab-d4e2-42f3-bd33-4746d88f1ce2.png)](https://addons.mozilla.org/en-US/firefox/addon/v%C5%A1e/)
 
-
 ## Funkcionality přidané do systému insis 
 
-### Náhled rozvrhu a detekce kolizí při zápisu předmětů
+### Vylepšený rozvrh s možností přidávat poznámky k hodinám
 
-![Náhled rozvrhu](https://user-images.githubusercontent.com/14146321/186440520-f1e7431a-7409-4abb-8842-f05c631b3171.png)
+![Vylepšený rozvrh](https://user-images.githubusercontent.com/14146321/196418660-e2ff965c-d957-4f74-8957-4fa320a782da.png)
 
 ### Připomenutí na odevzdávárny
 
 https://user-images.githubusercontent.com/14146321/194909135-a6e2a823-3fd7-45f4-9f23-258e56fd5a75.mp4
 
-### Náhled úspěšnosti předmětů z minulých let
+### Náhled rozvrhu a detekce kolizí při zápisu předmětů
 
-_V současné verzi rozšíření ještě funkcionalita není dostupná_
+![Náhled rozvrhu](https://user-images.githubusercontent.com/14146321/186440520-f1e7431a-7409-4abb-8842-f05c631b3171.png)
