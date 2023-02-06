@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/14146321/194909135-a6e2a823-3fd7-45f4-
 
 ### Náhled rozvrhu a detekce kolizí při zápisu předmětů
 
-![Náhled rozvrhu](https://user-images.githubusercontent.com/14146321/186440520-f1e7431a-7409-4abb-8842-f05c631b3171.png)
+![Náhled rozvrhu](https://user-images.githubusercontent.com/14146321/217070996-02502d7f-bd2f-408e-9e71-802568f627bb.png)
 
 ### Zdrojové kódy
 
